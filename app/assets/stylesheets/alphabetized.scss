@@ -1,27 +1,27 @@
-.customer {
+.alphabetized {
   margin-bottom: 20px;
   padding: 10px;
   border: 1px solid #ccc;
 }
 
-.customer img {
+.alphabetized img {
   max-width: 100%;
   height: auto;
 }
 
-.customer h3 {
+.alphabetized h3 {
   font-size: 20px;
   margin-bottom: 5px;
 }
 
-.customer-cards {
+.alphabetized-cards {
   display: flex;
   flex-direction: row;
   overflow-x: auto;
   gap: 20px;
 }
 
-.customer-card {
+.alphabetized-card {
   flex: 0 0 auto;
   max-width: calc(20% - 20px);
 }

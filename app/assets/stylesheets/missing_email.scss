@@ -1,27 +1,27 @@
-.customer {
+.missing_email {
   margin-bottom: 20px;
   padding: 10px;
   border: 1px solid #ccc;
 }
 
-.customer img {
+.missing_email img {
   max-width: 100%;
   height: auto;
 }
 
-.customer h3 {
+.missing_email h3 {
   font-size: 20px;
   margin-bottom: 5px;
 }
 
-.customer-cards {
+.missing_email-cards {
   display: flex;
   flex-direction: row;
   overflow-x: auto;
   gap: 20px;
 }
 
-.customer-card {
+.missing_email-card {
   flex: 0 0 auto;
   max-width: calc(20% - 20px);
 }

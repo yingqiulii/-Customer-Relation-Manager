@@ -1,6 +1,6 @@
 <h1>Customers Missing Email</h1>
 
-<div class="customers">
+<div class="missing_email-cards">
   <% @customers.each do |customer| %>
     <%= render partial: 'customer', locals: { customer: customer } %>
   <% end %>
